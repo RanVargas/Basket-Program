@@ -1,0 +1,15 @@
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\Basket-CPP-New.exe
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\Basket-CPP-New.deps.json
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\Basket-CPP-New.runtimeconfig.json
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\Basket-CPP-New.dll
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\ref\Basket-CPP-New.dll
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\bin\Debug\net6.0\Basket-CPP-New.pdb
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.csproj.AssemblyReference.cache
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.AssemblyInfoInputs.cache
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.AssemblyInfo.cs
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.csproj.CoreCompileInputs.cache
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.dll
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\ref\Basket-CPP-New.dll
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.pdb
+C:\Users\ren-e\source\repos\Basket-CPP-New\Basket-CPP-New\obj\Debug\net6.0\Basket-CPP-New.genruntimeconfig.cache
